@@ -1,4 +1,4 @@
-# udacity-cloud-devops-Engg-capstone-project
+# Udacity_Capstone_Project
 
 This is the final Capstone project of the Cloud Devops nanodegree
 
