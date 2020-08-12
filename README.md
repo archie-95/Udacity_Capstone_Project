@@ -1,8 +1,8 @@
 # Udacity_Capstone_Project
 
-This is the final Capstone project of the Cloud Devops nanodegree
+This is the final Capstone project of the Cloud Devops Nanodegree
 
-#Project Tasks:
+#Project Tasks Assigned:
 
     Working in AWS
     Using Jenkins to implement Continuous Integration and Continuous Deployment
